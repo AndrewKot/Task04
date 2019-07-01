@@ -1,0 +1,6 @@
+D:\My\CShapr\Task04\Task04\NumericalMathMethods\bin\Debug\NumericalMathMethods.dll
+D:\My\CShapr\Task04\Task04\NumericalMathMethods\bin\Debug\NumericalMathMethods.pdb
+D:\My\CShapr\Task04\Task04\NumericalMathMethods\obj\Debug\NumericalMathMethods.csprojAssemblyReference.cache
+D:\My\CShapr\Task04\Task04\NumericalMathMethods\obj\Debug\NumericalMathMethods.csproj.CoreCompileInputs.cache
+D:\My\CShapr\Task04\Task04\NumericalMathMethods\obj\Debug\NumericalMathMethods.dll
+D:\My\CShapr\Task04\Task04\NumericalMathMethods\obj\Debug\NumericalMathMethods.pdb
