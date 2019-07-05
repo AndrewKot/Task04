@@ -13,8 +13,7 @@ namespace UI
         {
             Console.WriteLine("Hello");
 
-            Console.WriteLine(FindRootOfValue.GetRootOfValue(1000d, 18F, 0.01d, 1d));
-            
+            Console.WriteLine(Convert.ToString(FindRootOfValue.GetRootOfValue(1000d, 3F, 0.01d, 0d)));
 
             Console.ReadLine();
         }

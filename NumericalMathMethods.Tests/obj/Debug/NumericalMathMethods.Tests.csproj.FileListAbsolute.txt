@@ -1,0 +1,16 @@
+C:\My\Csharp\Task04\NumericalMathMethods.Tests\obj\Debug\NumericalMathMethods.Tests.csprojAssemblyReference.cache
+C:\My\Csharp\Task04\NumericalMathMethods.Tests\obj\Debug\NumericalMathMethods.Tests.csproj.CoreCompileInputs.cache
+C:\My\Csharp\Task04\NumericalMathMethods.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\My\Csharp\Task04\NumericalMathMethods.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\My\Csharp\Task04\NumericalMathMethods.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\My\Csharp\Task04\NumericalMathMethods.Tests\bin\Debug\NumericalMathMethods.Tests.dll
+C:\My\Csharp\Task04\NumericalMathMethods.Tests\bin\Debug\NumericalMathMethods.Tests.pdb
+C:\My\Csharp\Task04\NumericalMathMethods.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\My\Csharp\Task04\NumericalMathMethods.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\My\Csharp\Task04\NumericalMathMethods.Tests\bin\Debug\NumericalMathMethods.dll
+C:\My\Csharp\Task04\NumericalMathMethods.Tests\bin\Debug\NumericalMathMethods.pdb
+C:\My\Csharp\Task04\NumericalMathMethods.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\My\Csharp\Task04\NumericalMathMethods.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\My\Csharp\Task04\NumericalMathMethods.Tests\obj\Debug\NumericalMathMethods.Tests.csproj.CopyComplete
+C:\My\Csharp\Task04\NumericalMathMethods.Tests\obj\Debug\NumericalMathMethods.Tests.dll
+C:\My\Csharp\Task04\NumericalMathMethods.Tests\obj\Debug\NumericalMathMethods.Tests.pdb

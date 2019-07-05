@@ -8,3 +8,13 @@ D:\My\CShapr\Task04\Task04\UI\bin\Debug\NumericalMathMethods.pdb
 D:\My\CShapr\Task04\Task04\UI\obj\Debug\UI.csproj.CopyComplete
 D:\My\CShapr\Task04\Task04\UI\obj\Debug\UI.exe
 D:\My\CShapr\Task04\Task04\UI\obj\Debug\UI.pdb
+C:\My\Csharp\Task04\UI\bin\Debug\UI.exe.config
+C:\My\Csharp\Task04\UI\bin\Debug\UI.exe
+C:\My\Csharp\Task04\UI\bin\Debug\UI.pdb
+C:\My\Csharp\Task04\UI\bin\Debug\NumericalMathMethods.dll
+C:\My\Csharp\Task04\UI\bin\Debug\NumericalMathMethods.pdb
+C:\My\Csharp\Task04\UI\obj\Debug\UI.csprojAssemblyReference.cache
+C:\My\Csharp\Task04\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\My\Csharp\Task04\UI\obj\Debug\UI.csproj.CopyComplete
+C:\My\Csharp\Task04\UI\obj\Debug\UI.exe
+C:\My\Csharp\Task04\UI\obj\Debug\UI.pdb

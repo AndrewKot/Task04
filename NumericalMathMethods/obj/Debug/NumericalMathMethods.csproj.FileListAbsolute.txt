@@ -4,3 +4,9 @@ D:\My\CShapr\Task04\Task04\NumericalMathMethods\obj\Debug\NumericalMathMethods.c
 D:\My\CShapr\Task04\Task04\NumericalMathMethods\obj\Debug\NumericalMathMethods.csproj.CoreCompileInputs.cache
 D:\My\CShapr\Task04\Task04\NumericalMathMethods\obj\Debug\NumericalMathMethods.dll
 D:\My\CShapr\Task04\Task04\NumericalMathMethods\obj\Debug\NumericalMathMethods.pdb
+C:\My\Csharp\Task04\NumericalMathMethods\bin\Debug\NumericalMathMethods.dll
+C:\My\Csharp\Task04\NumericalMathMethods\bin\Debug\NumericalMathMethods.pdb
+C:\My\Csharp\Task04\NumericalMathMethods\obj\Debug\NumericalMathMethods.csprojAssemblyReference.cache
+C:\My\Csharp\Task04\NumericalMathMethods\obj\Debug\NumericalMathMethods.csproj.CoreCompileInputs.cache
+C:\My\Csharp\Task04\NumericalMathMethods\obj\Debug\NumericalMathMethods.dll
+C:\My\Csharp\Task04\NumericalMathMethods\obj\Debug\NumericalMathMethods.pdb

@@ -11,7 +11,7 @@ namespace NumericalMathMethods
     {
         private static bool Resolution(double value, double accuracy, double initialValu)
         {
-            if (value >= 0 && accuracy >= 0 && initialValu >=0)
+            if (value >= 0 && accuracy >= 0 && initialValu > 0)
             {
                 return true;
             }
