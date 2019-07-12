@@ -25,7 +25,7 @@ namespace NumericalMathMethods.Tests
         }
 
         [TestMethod]
-        //[ExpectedException]
+        // [ExpectedException]
         public void NullUserIdInConstructor()
         {
             // arrange
